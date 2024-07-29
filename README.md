@@ -17,5 +17,5 @@ Import template_component_plugin_youtube_embed.sql into your applicaiton.
 ## Preview
 ![Hero Preview Screenshot](docs/preview.png)
 
-## Demo (with-in Hero)
-[APEX Escapes](https://apex.oracle.com/pls/apex/r/timplating/apex-escapes/)
+## Demo
+[Youtube Embed](https://apex.oracle.com/pls/apex/r/timplating/youtube-embed/)

@@ -28,7 +28,7 @@
       "plugin": {
         "internalName": "APEX.TIMPLATING.YOUTUBE_EMBED",
         "type": "template component",
-        "demo": "https://apex.oracle.com/pls/apex/r/timplating/apex-escapes/",
+        "demo": "https://apex.oracle.com/pls/apex/r/timplating/youtube-embed/",
         "previewImage": "https://github.com/Vastyles/timplating-youtube-embed/blob/main/docs/preview.png?raw=true"
       }
     }
