@@ -1,0 +1,36 @@
+{
+  "name": "Timplating Youtube Embed",
+  "version": "1.0",
+  "description": "A very simple Youtube Embed template component that allows you to display Youtube videos within an iframe by passing in the Youtube Video ID.",
+  "keywords" : ["APEX", "TEMPLATE_COMPONENT", "YOUTUBE", "ORACLE", "TIMPLATING"],
+  "homepage": "https://github.com/Vastyles/timplating-youtube-embed",
+  "bugs": {
+    "url": "https://github.com/Vastyles/timplating-youtube-embed/issues",
+    "email": "timplating@vastyles.com"
+  },
+  "license": "MIT",
+  "commercial": "No",
+  "author": {
+    "name": "Tim Kimberl",
+    "email": "tim@vastyles.com",
+    "url": "https://timplating.com/",
+    "twitter": "timan25",
+    "donationUrl": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Vastyles/timplating-hero.git"
+  },
+  "oracle": {
+    "versions": ["24.1.0"],
+    "apex": {
+      "versions": ["24.1.0"],
+      "plugin": {
+        "internalName": "APEX.TIMPLATING.YOUTUBE_EMBED",
+        "type": "Template Component",
+        "demo": "https://apex.oracle.com/pls/apex/r/timplating/apex-escapes/",
+        "previewImage": "https://github.com/Vastyles/timplating-youtube-embed/blob/main/docs/preview.png?raw=true"
+      }
+    }
+  }
+}
